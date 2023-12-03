@@ -1,0 +1,11 @@
+*{padding: 0;margin: 0;}
+.container{height: 100vh;
+            width: 100vw;
+            color:#3d3939;
+            background:#ffc0d6;
+            text-align: center}
+.love{
+    padding-top: 25%;
+}
+
+
